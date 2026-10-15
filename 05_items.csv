@@ -1,0 +1,11 @@
+item_code,item_name,item_group,stock_uom,is_stock_item,valuation_rate,standard_rate,include_item_in_manufacturing,is_purchase_item,is_sales_item
+RM-PP-NAT,Biji Plastik PP Food Grade Natural,Raw Material,Kg,1,22000,22000,1,1,0
+RM-MB-BLU,Masterbatch Pewarna Biru Food Grade,Raw Material,Kg,1,65000,65000,1,1,0
+RM-MB-CLR,Clarifier Additive Transparan,Raw Material,Kg,1,85000,85000,1,1,0
+RM-SIL-SEAL,Karet Seal Silikon 1000ml,Raw Material,Nos,1,1500,1500,1,1,0
+RM-PLST-OPP,Plastik Pembungkus OPP 25x20cm,Raw Material,Nos,1,200,200,1,1,0
+RM-LBL-BTO,Paper Sleeve Label Bento,Raw Material,Nos,1,500,500,1,1,0
+RM-BOX-CTN,Karton Box Master Kotak Makan,Packaging Material,Nos,1,6000,6000,1,1,0
+SFG-KM-BODY,Body Kotak Makan Bento Biru,Sub Assemblies,Nos,1,3500,3500,1,0,0
+SFG-KM-LID,Tutup Kotak Makan Transparan,Sub Assemblies,Nos,1,2200,2200,1,0,0
+FG-KM-01,Kotak Makan Bento 3 Sekat 1000ml,Plastic Products,Nos,1,7611,13500,1,0,1

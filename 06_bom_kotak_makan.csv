@@ -1,0 +1,7 @@
+item,quantity,uom,with_operations,item_code,qty,stock_uom,rate
+FG-KM-01,1,Nos,1,RM-PP-NAT,0.153,Kg,22000
+FG-KM-01,1,Nos,1,RM-MB-BLU,0.005,Kg,65000
+FG-KM-01,1,Nos,1,RM-MB-CLR,0.002,Kg,85000
+FG-KM-01,1,Nos,1,RM-SIL-SEAL,1.000,Nos,1500
+FG-KM-01,1,Nos,1,RM-PLST-OPP,1.000,Nos,200
+FG-KM-01,1,Nos,1,RM-LBL-BTO,1.000,Nos,500

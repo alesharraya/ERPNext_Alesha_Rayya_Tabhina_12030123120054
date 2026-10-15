@@ -1,0 +1,8 @@
+stock_entry_type,item_code,qty,t_warehouse,basic_rate
+Material Receipt,RM-PP-NAT,500,Stores - PJM,22000
+Material Receipt,RM-MB-BLU,25,Stores - PJM,65000
+Material Receipt,RM-MB-CLR,10,Stores - PJM,85000
+Material Receipt,RM-SIL-SEAL,2000,Stores - PJM,1500
+Material Receipt,RM-PLST-OPP,3000,Stores - PJM,200
+Material Receipt,RM-LBL-BTO,3000,Stores - PJM,500
+Material Receipt,RM-BOX-CTN,150,Stores - PJM,6000

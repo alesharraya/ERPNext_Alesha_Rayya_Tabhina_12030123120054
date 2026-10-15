@@ -1,0 +1,7 @@
+operation,workstation,description
+OP-MIXING,WS-INJ-01,Pencampuran Biji Plastik dan Masterbatch Pewarna
+OP-INJ-BODY,WS-INJ-01,Proses Injection Molding Wadah Body Kotak Makan
+OP-INJ-LID,WS-INJ-02,Proses Injection Molding Tutup Transparan
+OP-TRIM-QC,WS-ASSY-01,Pembersihan Flash Runner dan Pemeriksaan Cacat Visual
+OP-ASSY-SEAL,WS-ASSY-01,Pemasangan Karet Seal Silikon ke Tutup
+OP-PACKING,WS-PACK-01,Pembungkusan Plastik OPP Labeling dan Masuk Master Box
